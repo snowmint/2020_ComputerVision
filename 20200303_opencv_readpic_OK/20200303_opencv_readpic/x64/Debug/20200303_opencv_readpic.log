@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\user\source\repos\20200303_opencv_readpic\20200303_opencv_readpic\main.cpp(19): warning C4244: '正在初始化': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+c:\users\user\source\repos\20200303_opencv_readpic\20200303_opencv_readpic\main.cpp(20): warning C4244: '正在初始化': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+  20200303_opencv_readpic.vcxproj -> C:\Users\user\source\repos\20200303_opencv_readpic\x64\Debug\20200303_opencv_readpic.exe
