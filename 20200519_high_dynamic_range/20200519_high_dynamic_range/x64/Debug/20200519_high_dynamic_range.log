@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\user\source\repos\20200519_high_dynamic_range\20200519_high_dynamic_range\main.cpp(64): warning C4305: '引數': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+c:\users\user\source\repos\20200519_high_dynamic_range\20200519_high_dynamic_range\main.cpp(90): warning C4305: '引數': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+  20200519_high_dynamic_range.vcxproj -> C:\Users\user\source\repos\20200519_high_dynamic_range\x64\Debug\20200519_high_dynamic_range.exe
