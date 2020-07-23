@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\user\source\repos\20200317_opencv_geotransformation\20200317_opencv_geotransformation\main.cpp(76): warning C4244: '引數': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+c:\users\user\source\repos\20200317_opencv_geotransformation\20200317_opencv_geotransformation\main.cpp(77): warning C4244: '引數': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+  20200317_opencv_geotransformation.vcxproj -> C:\Users\user\source\repos\20200317_opencv_geotransformation\x64\Debug\20200317_opencv_geotransformation.exe
